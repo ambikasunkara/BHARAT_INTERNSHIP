@@ -1,0 +1,27 @@
+{
+  "name": "bharat-internship-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^4.21.2",
+    "multer": "^2.0.2",
+    "node-fetch": "^3.3.2",
+    "pg": "^8.16.3",
+    "puppeteer": "^24.22.0",
+    "sequelize": "^6.37.7",
+    "sequelize-cli": "^6.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
